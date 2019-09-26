@@ -24,8 +24,8 @@ Azure
 1.  Clone the repo:
 
     ```bash
-    git clone https://github.com/metral/demo-multicloud-clusters
-	cd demo-multicloud-clusters
+    git clone https://github.com/metral/demo-multicloud
+	cd demo-multicloud
     ```
 
 1.  Install the dependencies.
